@@ -13,7 +13,7 @@ aelion-neural-network
 
 │
 
-├── new_model.aelion        # Trained neural network model
+├── new_model (3).aelion        # Trained neural network model
 
 ├── dataset.json            # Training dataset
 
