@@ -1,0 +1,2502 @@
+[
+  {
+    "ID": 1,
+    "Website": "Google",
+    "URL": "https://www.google.com"
+  },
+  {
+    "ID": 2,
+    "Website": "GitHub",
+    "URL": "https://www.github.com"
+  },
+  {
+    "ID": 3,
+    "Website": "Stack Overflow",
+    "URL": "https://stackoverflow.com"
+  },
+  {
+    "ID": 4,
+    "Website": "Reddit",
+    "URL": "https://www.reddit.com"
+  },
+  {
+    "ID": 5,
+    "Website": "LinkedIn",
+    "URL": "https://www.linkedin.com"
+  },
+  {
+    "ID": 6,
+    "Website": "Twitter",
+    "URL": "https://www.twitter.com"
+  },
+  {
+    "ID": 7,
+    "Website": "Facebook",
+    "URL": "https://www.facebook.com"
+  },
+  {
+    "ID": 8,
+    "Website": "Instagram",
+    "URL": "https://www.instagram.com"
+  },
+  {
+    "ID": 9,
+    "Website": "YouTube",
+    "URL": "https://www.youtube.com"
+  },
+  {
+    "ID": 10,
+    "Website": "Wikipedia",
+    "URL": "https://www.wikipedia.org"
+  },
+  {
+    "ID": 11,
+    "Website": "Amazon",
+    "URL": "https://www.amazon.com"
+  },
+  {
+    "ID": 12,
+    "Website": "Netflix",
+    "URL": "https://www.netflix.com"
+  },
+  {
+    "ID": 13,
+    "Website": "Pinterest",
+    "URL": "https://www.pinterest.com"
+  },
+  {
+    "ID": 14,
+    "Website": "Quora",
+    "URL": "https://www.quora.com"
+  },
+  {
+    "ID": 15,
+    "Website": "Medium",
+    "URL": "https://medium.com"
+  },
+  {
+    "ID": 16,
+    "Website": "Tumblr",
+    "URL": "https://www.tumblr.com"
+  },
+  {
+    "ID": 17,
+    "Website": "Flickr",
+    "URL": "https://www.flickr.com"
+  },
+  {
+    "ID": 18,
+    "Website": "Vimeo",
+    "URL": "https://vimeo.com"
+  },
+  {
+    "ID": 19,
+    "Website": "SoundCloud",
+    "URL": "https://soundcloud.com"
+  },
+  {
+    "ID": 20,
+    "Website": "Twitch",
+    "URL": "https://www.twitch.tv"
+  },
+  {
+    "ID": 21,
+    "Website": "Spotify",
+    "URL": "https://www.spotify.com"
+  },
+  {
+    "ID": 22,
+    "Website": "TikTok",
+    "URL": "https://www.tiktok.com"
+  },
+  {
+    "ID": 23,
+    "Website": "Slack",
+    "URL": "https://slack.com"
+  },
+  {
+    "ID": 24,
+    "Website": "Zoom",
+    "URL": "https://zoom.us"
+  },
+  {
+    "ID": 25,
+    "Website": "Dropbox",
+    "URL": "https://www.dropbox.com"
+  },
+  {
+    "ID": 26,
+    "Website": "Salesforce",
+    "URL": "https://www.salesforce.com"
+  },
+  {
+    "ID": 27,
+    "Website": "Shopify",
+    "URL": "https://www.shopify.com"
+  },
+  {
+    "ID": 28,
+    "Website": "WordPress",
+    "URL": "https://wordpress.org"
+  },
+  {
+    "ID": 29,
+    "Website": "Bing",
+    "URL": "https://www.bing.com"
+  },
+  {
+    "ID": 30,
+    "Website": "Yahoo",
+    "URL": "https://www.yahoo.com"
+  },
+  {
+    "ID": 31,
+    "Website": "ESPN",
+    "URL": "https://www.espn.com"
+  },
+  {
+    "ID": 32,
+    "Website": "DuckDuckGo",
+    "URL": "https://duckduckgo.com"
+  },
+  {
+    "ID": 33,
+    "Website": "Cloudflare",
+    "URL": "https://www.cloudflare.com"
+  },
+  {
+    "ID": 34,
+    "Website": "DigitalOcean",
+    "URL": "https://www.digitalocean.com"
+  },
+  {
+    "ID": 35,
+    "Website": "Brave",
+    "URL": "https://brave.com"
+  },
+  {
+    "ID": 36,
+    "Website": "Mozilla",
+    "URL": "https://www.mozilla.org"
+  },
+  {
+    "ID": 37,
+    "Website": "Opera",
+    "URL": "https://www.opera.com"
+  },
+  {
+    "ID": 38,
+    "Website": "Safari",
+    "URL": "https://www.apple.com/safari/"
+  },
+  {
+    "ID": 39,
+    "Website": "Edge",
+    "URL": "https://www.microsoft.com/edge"
+  },
+  {
+    "ID": 40,
+    "Website": "Chrome",
+    "URL": "https://www.google.com/chrome"
+  },
+  {
+    "ID": 41,
+    "Website": "Firefox",
+    "URL": "https://www.mozilla.org/firefox"
+  },
+  {
+    "ID": 42,
+    "Website": "Tor",
+    "URL": "https://www.torproject.org"
+  },
+  {
+    "ID": 43,
+    "Website": "UC Browser",
+    "URL": "https://www.ucbrowser.com"
+  },
+  {
+    "ID": 44,
+    "Website": "Yandex",
+    "URL": "https://www.yandex.com"
+  },
+  {
+    "ID": 45,
+    "Website": "Baidu",
+    "URL": "https://www.baidu.com"
+  },
+  {
+    "ID": 46,
+    "Website": "Seznam",
+    "URL": "https://www.seznam.cz"
+  },
+  {
+    "ID": 47,
+    "Website": "Ask.com",
+    "URL": "https://www.ask.com"
+  },
+  {
+    "ID": 48,
+    "Website": "Aol",
+    "URL": "https://www.aol.com"
+  },
+  {
+    "ID": 49,
+    "Website": "WolframAlpha",
+    "URL": "https://www.wolframalpha.com"
+  },
+  {
+    "ID": 50,
+    "Website": "Ecosia",
+    "URL": "https://www.ecosia.org"
+  },
+  {
+    "ID": 51,
+    "Website": "Startpage",
+    "URL": "https://www.startpage.com"
+  },
+  {
+    "ID": 52,
+    "Website": "Naver",
+    "URL": "https://www.naver.com"
+  },
+  {
+    "ID": 53,
+    "Website": "Qwant",
+    "URL": "https://www.qwant.com"
+  },
+  {
+    "ID": 54,
+    "Website": "Archive.org",
+    "URL": "https://archive.org"
+  },
+  {
+    "ID": 55,
+    "Website": "Swisscows",
+    "URL": "https://swisscows.com"
+  },
+  {
+    "ID": 56,
+    "Website": "Mojeek",
+    "URL": "https://www.mojeek.com"
+  },
+  {
+    "ID": 57,
+    "Website": "Brave Search",
+    "URL": "https://search.brave.com"
+  },
+  {
+    "ID": 58,
+    "Website": "MetaGer",
+    "URL": "https://metager.org"
+  },
+  {
+    "ID": 59,
+    "Website": "You.com",
+    "URL": "https://you.com"
+  },
+  {
+    "ID": 60,
+    "Website": "Dogpile",
+    "URL": "https://www.dogpile.com"
+  },
+  {
+    "ID": 61,
+    "Website": "Boardreader",
+    "URL": "https://boardreader.com"
+  },
+  {
+    "ID": 62,
+    "Website": "WebCrawler",
+    "URL": "https://www.webcrawler.com"
+  },
+  {
+    "ID": 63,
+    "Website": "Kagi",
+    "URL": "https://kagi.com"
+  },
+  {
+    "ID": 64,
+    "Website": "Excite",
+    "URL": "https://www.excite.com"
+  },
+  {
+    "ID": 65,
+    "Website": "Lycos",
+    "URL": "https://www.lycos.com"
+  },
+  {
+    "ID": 66,
+    "Website": "Andi Search",
+    "URL": "https://andisearch.com"
+  },
+  {
+    "ID": 67,
+    "Website": "Yep Search",
+    "URL": "https://yep.com"
+  },
+  {
+    "ID": 68,
+    "Website": "Duck.ai",
+    "URL": "https://duck.ai"
+  },
+  {
+    "ID": 69,
+    "Website": "Perplexity AI",
+    "URL": "https://www.perplexity.ai"
+  },
+  {
+    "ID": 70,
+    "Website": "Phind",
+    "URL": "https://www.phind.com"
+  },
+  {
+    "ID": 71,
+    "Website": "Apache",
+    "URL": "https://www.apache.org"
+  },
+  {
+    "ID": 72,
+    "Website": "NGINX",
+    "URL": "https://nginx.org"
+  },
+  {
+    "ID": 73,
+    "Website": "Vercel",
+    "URL": "https://www.vercel.com"
+  },
+  {
+    "ID": 74,
+    "Website": "Perplexity AI",
+    "URL": "https://www.perplexity.ai"
+  },
+  {
+    "ID": 75,
+    "Website": "Mojeek",
+    "URL": "https://www.mojeek.com"
+  },
+  {
+    "ID": 76,
+    "Website": "Snap",
+    "URL": "https://www.snap.com"
+  },
+  {
+    "ID": 77,
+    "Website": "Netlify",
+    "URL": "https://www.netlify.com"
+  },
+  {
+    "ID": 78,
+    "Website": "Render",
+    "URL": "https://www.render.com"
+  },
+  {
+    "ID": 79,
+    "Website": "Railway",
+    "URL": "https://www.railway.app"
+  },
+  {
+    "ID": 80,
+    "Website": "OpenSSL",
+    "URL": "https://www.openssl.org"
+  },
+  {
+    "ID": 81,
+    "Website": "MetaCrawler",
+    "URL": "https://www.metacrawler.com"
+  },
+  {
+    "ID": 82,
+    "Website": "GNU",
+    "URL": "https://www.gnu.org"
+  },
+  {
+    "ID": 83,
+    "Website": "Linux Foundation",
+    "URL": "https://www.linuxfoundation.org"
+  },
+  {
+    "ID": 84,
+    "Website": "SourceForge",
+    "URL": "https://www.sourceforge.net"
+  },
+  {
+    "ID": 85,
+    "Website": "OpenJS Foundation",
+    "URL": "https://www.openjsf.org"
+  },
+  {
+    "ID": 86,
+    "Website": "OpenCV",
+    "URL": "https://opencv.org"
+  },
+  {
+    "ID": 87,
+    "Website": "TensorFlow",
+    "URL": "https://www.tensorflow.org"
+  },
+  {
+    "ID": 88,
+    "Website": "PyTorch",
+    "URL": "https://pytorch.org"
+  },
+  {
+    "ID": 89,
+    "Website": "Scikit-learn",
+    "URL": "https://scikit-learn.org"
+  },
+  {
+    "ID": 90,
+    "Website": "Pandas",
+    "URL": "https://pandas.pydata.org"
+  },
+  {
+    "ID": 91,
+    "Website": "Notion",
+    "URL": "https://www.notion.so"
+  },
+  {
+    "ID": 92,
+    "Website": "Trello",
+    "URL": "https://trello.com"
+  },
+  {
+    "ID": 93,
+    "Website": "ClickUp",
+    "URL": "https://clickup.com"
+  },
+  {
+    "ID": 94,
+    "Website": "Monday.com",
+    "URL": "https://monday.com"
+  },
+  {
+    "ID": 95,
+    "Website": "Jira",
+    "URL": "https://www.atlassian.com/software/jira"
+  },
+  {
+    "ID": 96,
+    "Website": "Basecamp",
+    "URL": "https://basecamp.com"
+  },
+  {
+    "ID": 97,
+    "Website": "Asana",
+    "URL": "https://asana.com"
+  },
+  {
+    "ID": 98,
+    "Website": "Wrike",
+    "URL": "https://www.wrike.com"
+  },
+  {
+    "ID": 99,
+    "Website": "Smartsheet",
+    "URL": "https://www.smartsheet.com"
+  },
+  {
+    "ID": 100,
+    "Website": "Airtable",
+    "URL": "https://airtable.com"
+  },
+  {
+    "ID": 101,
+    "Website": "Adobe",
+    "URL": "https://www.adobe.com"
+  },
+  {
+    "ID": 102,
+    "Website": "Photopea",
+    "URL": "https://www.photopea.com"
+  },
+  {
+    "ID": 103,
+    "Website": "Pixlr",
+    "URL": "https://pixlr.com"
+  },
+  {
+    "ID": 104,
+    "Website": "Remove.bg",
+    "URL": "https://www.remove.bg"
+  },
+  {
+    "ID": 105,
+    "Website": "TinyPNG",
+    "URL": "https://tinypng.com"
+  },
+  {
+    "ID": 106,
+    "Website": "Smallpdf",
+    "URL": "https://smallpdf.com"
+  },
+  {
+    "ID": 107,
+    "Website": "ILovePDF",
+    "URL": "https://www.ilovepdf.com"
+  },
+  {
+    "ID": 108,
+    "Website": "PDF24",
+    "URL": "https://tools.pdf24.org"
+  },
+  {
+    "ID": 109,
+    "Website": "PDFescape",
+    "URL": "https://www.pdfescape.com"
+  },
+  {
+    "ID": 110,
+    "Website": "Sejda",
+    "URL": "https://www.sejda.com"
+  },
+  {
+    "ID": 111,
+    "Website": "PDF-XChange Editor",
+    "URL": "https://www.tracker-software.com/product/pdf-xchange-editor"
+  },
+  {
+    "ID": 112,
+    "Website": "Foxit PDF Editor",
+    "URL": "https://www.foxitsoftware.com/pdf-editor/"
+  },
+  {
+    "ID": 113,
+    "Website": "Nitro PDF Pro",
+    "URL": "https://www.gonitro.com/pdf-pro"
+  },
+  {
+    "ID": 114,
+    "Website": "Soda PDF",
+    "URL": "https://www.sodapdf.com"
+  },
+  {
+    "ID": 115,
+    "Website": "PDFsam Basic",
+    "URL": "https://pdfsam.org"
+  },
+  {
+    "ID": 116,
+    "Website": "Docker Hub",
+    "URL": "https://hub.docker.com"
+  },
+  {
+    "ID": 117,
+    "Website": "Kaggle",
+    "URL": "https://www.kaggle.com"
+  },
+  {
+    "ID": 118,
+    "Website": "Hugging Face",
+    "URL": "https://huggingface.co"
+  },
+  {
+    "ID": 119,
+    "Website": "Papers with Code",
+    "URL": "https://paperswithcode.com"
+  },
+  {
+    "ID": 120,
+    "Website": "ArXiv",
+    "URL": "https://arxiv.org"
+  },
+  {
+    "ID": 121,
+    "Website": "Redis",
+    "URL": "https://redis.io"
+  },
+  {
+    "ID": 122,
+    "Website": "MySQL",
+    "URL": "https://www.mysql.com"
+  },
+  {
+    "ID": 123,
+    "Website": "PostgreSQL",
+    "URL": "https://www.postgresql.org"
+  },
+  {
+    "ID": 124,
+    "Website": "MongoDB",
+    "URL": "https://www.mongodb.com"
+  },
+  {
+    "ID": 125,
+    "Website": "SQLite",
+    "URL": "https://www.sqlite.org"
+  },
+  {
+    "ID": 126,
+    "Website": "MariaDB",
+    "URL": "https://mariadb.org"
+  },
+  {
+    "ID": 127,
+    "Website": "Cassandra",
+    "URL": "https://cassandra.apache.org"
+  },
+  {
+    "ID": 128,
+    "Website": "Neo4j",
+    "URL": "https://neo4j.com"
+  },
+  {
+    "ID": 129,
+    "Website": "Firebase",
+    "URL": "https://firebase.google.com"
+  },
+  {
+    "ID": 130,
+    "Website": "DynamoDB",
+    "URL": "https://aws.amazon.com/dynamodb/"
+  },
+  {
+    "ID": 131,
+    "Website": "CouchDB",
+    "URL": "https://couchdb.apache.org"
+  },
+  {
+    "ID": 132,
+    "Website": "SurrealDB",
+    "URL": "https://surrealdb.com"
+  },
+  {
+    "ID": 133,
+    "Website": "OrientDB",
+    "URL": "https://orientdb.org"
+  },
+  {
+    "ID": 134,
+    "Website": "ArangoDB",
+    "URL": "https://www.arangodb.com"
+  },
+  {
+    "ID": 135,
+    "Website": "Couchbase",
+    "URL": "https://www.couchbase.com"
+  },
+  {
+    "ID": 136,
+    "Website": "InfluxDB",
+    "URL": "https://www.influxdata.com"
+  },
+  {
+    "ID": 137,
+    "Website": "TimescaleDB",
+    "URL": "https://www.timescale.com"
+  },
+  {
+    "ID": 138,
+    "Website": "ClickHouse",
+    "URL": "https://clickhouse.com"
+  },
+  {
+    "ID": 139,
+    "Website": "Redshift",
+    "URL": "https://aws.amazon.com/redshift/"
+  },
+  {
+    "ID": 140,
+    "Website": "BigQuery",
+    "URL": "https://cloud.google.com/bigquery"
+  },
+  {
+    "ID": 141,
+    "Website": "Snowflake",
+    "URL": "https://www.snowflake.com"
+  },
+  {
+    "ID": 142,
+    "Website": "Presto",
+    "URL": "https://prestodb.io"
+  },
+  {
+    "ID": 143,
+    "Website": "Hive",
+    "URL": "https://hive.apache.org"
+  },
+  {
+    "ID": 144,
+    "Website": "Impala",
+    "URL": "https://impala.apache.org"
+  },
+  {
+    "ID": 145,
+    "Website": "Drill",
+    "URL": "https://drill.apache.org"
+  },
+  {
+    "ID": 146,
+    "Website": "Druid",
+    "URL": "https://druid.apache.org"
+  },
+  {
+    "ID": 147,
+    "Website": "Kylin",
+    "URL": "https://kylin.apache.org"
+  },
+  {
+    "ID": 148,
+    "Website": "Pinot",
+    "URL": "https://pinot.apache.org"
+  },
+  {
+    "ID": 149,
+    "Website": "Matplotlib",
+    "URL": "https://matplotlib.org"
+  },
+  {
+    "ID": 150,
+    "Website": "Greenplum",
+    "URL": "https://greenplum.org"
+  },
+  {
+    "ID": 151,
+    "Website": "SciPy",
+    "URL": "https://scipy.org"
+  },
+  {
+    "ID": 152,
+    "Website": "CockroachDB",
+    "URL": "https://www.cockroachlabs.com"
+  },
+  {
+    "ID": 153,
+    "Website": "VoltDB",
+    "URL": "https://www.voltdb.com"
+  },
+  {
+    "ID": 154,
+    "Website": "SingleStore",
+    "URL": "https://www.singlestore.com"
+  },
+  {
+    "ID": 155,
+    "Website": "Anaconda",
+    "URL": "https://www.anaconda.com"
+  },
+  {
+    "ID": 156,
+    "Website": "CrateDB",
+    "URL": "https://crate.io"
+  },
+  {
+    "ID": 157,
+    "Website": "FaunaDB",
+    "URL": "https://fauna.com"
+  },
+  {
+    "ID": 158,
+    "Website": "Dgraph",
+    "URL": "https://dgraph.io"
+  },
+  {
+    "ID": 159,
+    "Website": "Jupyter",
+    "URL": "https://www.jupyter.org"
+  },
+  {
+    "ID": 160,
+    "Website": "PyCharm",
+    "URL": "https://www.jetbrains.com/pycharm/"
+  },
+  {
+    "ID": 161,
+    "Website": "Elastic",
+    "URL": "https://www.elastic.co"
+  },
+  {
+    "ID": 162,
+    "Website": "Jenkins",
+    "URL": "https://www.jenkins.io"
+  },
+  {
+    "ID": 163,
+    "Website": "CircleCI",
+    "URL": "https://circleci.com"
+  },
+  {
+    "ID": 164,
+    "Website": "Travis CI",
+    "URL": "https://www.travis-ci.com"
+  },
+  {
+    "ID": 165,
+    "Website": "GitLab CI/CD",
+    "URL": "https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/"
+  },
+  {
+    "ID": 166,
+    "Website": "Bamboo",
+    "URL": "https://www.atlassian.com/software/bamboo"
+  },
+  {
+    "ID": 167,
+    "Website": "TeamCity",
+    "URL": "https://www.jetbrains.com/teamcity/"
+  },
+  {
+    "ID": 168,
+    "Website": "Azure DevOps",
+    "URL": "https://azure.microsoft.com/en-us/services/devops/"
+  },
+  {
+    "ID": 169,
+    "Website": "Bitbucket Pipelines",
+    "URL": "https://bitbucket.org/product/features/pipelines"
+  },
+  {
+    "ID": 170,
+    "Website": "Buddy",
+    "URL": "https://buddy.works"
+  },
+  {
+    "ID": 171,
+    "Website": "Semaphore",
+    "URL": "https://semaphoreci.com"
+  },
+  {
+    "ID": 172,
+    "Website": "GitHub Codespaces",
+    "URL": "https://github.com/features/codespaces"
+  },
+  {
+    "ID": 173,
+    "Website": "GitHub Copilot",
+    "URL": "https://github.com/features/copilot"
+  },
+  {
+    "ID": 174,
+    "Website": "Drone",
+    "URL": "https://www.drone.io"
+  },
+  {
+    "ID": 175,
+    "Website": "Buildkite",
+    "URL": "https://buildkite.com"
+  },
+  {
+    "ID": 176,
+    "Website": "AppVeyor",
+    "URL": "https://www.appveyor.com"
+  },
+  {
+    "ID": 177,
+    "Website": "GitHub Actions",
+    "URL": "https://github.com/features/actions"
+  },
+  {
+    "ID": 178,
+    "Website": "JetBrains",
+    "URL": "https://www.jetbrains.com"
+  },
+  {
+    "ID": 179,
+    "Website": "Visual Studio",
+    "URL": "https://visualstudio.microsoft.com"
+  },
+  {
+    "ID": 180,
+    "Website": "Visual Studio Code",
+    "URL": "https://code.visualstudio.com"
+  },
+  {
+    "ID": 181,
+    "Website": "Keras",
+    "URL": "https://keras.io"
+  },
+  {
+    "ID": 182,
+    "Website": "ONNX",
+    "URL": "https://onnx.ai"
+  },
+  {
+    "ID": 183,
+    "Website": "OpenAI API",
+    "URL": "https://platform.openai.com"
+  },
+  {
+    "ID": 184,
+    "Website": "Anthropic API",
+    "URL": "https://console.anthropic.com"
+  },
+  {
+    "ID": 185,
+    "Website": "Cohere",
+    "URL": "https://cohere.com"
+  },
+  {
+    "ID": 186,
+    "Website": "Mistral AI",
+    "URL": "https://mistral.ai"
+  },
+  {
+    "ID": 187,
+    "Website": "Together AI",
+    "URL": "https://www.together.ai"
+  },
+  {
+    "ID": 188,
+    "Website": "Groq",
+    "URL": "https://www.groq.com"
+  },
+  {
+    "ID": 189,
+    "Website": "Modal",
+    "URL": "https://modal.com"
+  },
+  {
+    "ID": 190,
+    "Website": "Weights & Biases",
+    "URL": "https://wandb.ai"
+  },
+  {
+    "ID": 191,
+    "Website": "MLflow",
+    "URL": "https://mlflow.org"
+  },
+  {
+    "ID": 192,
+    "Website": "DVC",
+    "URL": "https://dvc.org"
+  },
+  {
+    "ID": 193,
+    "Website": "OBS Studio",
+    "URL": "https://obsproject.com"
+  },
+  {
+    "ID": 194,
+    "Website": "VLC",
+    "URL": "https://www.videolan.org"
+  },
+  {
+    "ID": 195,
+    "Website": "HandBrake",
+    "URL": "https://handbrake.fr"
+  },
+  {
+    "ID": 196,
+    "Website": "Shotcut",
+    "URL": "https://shotcut.org"
+  },
+  {
+    "ID": 197,
+    "Website": "DaVinci Resolve",
+    "URL": "https://www.blackmagicdesign.com"
+  },
+  {
+    "ID": 198,
+    "Website": "Lightworks",
+    "URL": "https://www.lwks.com"
+  },
+  {
+    "ID": 199,
+    "Website": "Kdenlive",
+    "URL": "https://kdenlive.org"
+  },
+  {
+    "ID": 200,
+    "Website": "Blender",
+    "URL": "https://www.blender.org"
+  },
+  {
+    "ID": 201,
+    "Website": "Apple",
+    "URL": "https://www.apple.com"
+  },
+  {
+    "ID": 202,
+    "Website": "Microsoft",
+    "URL": "https://www.microsoft.com"
+  },
+  {
+    "ID": 203,
+    "Website": "Samsung",
+    "URL": "https://www.samsung.com"
+  },
+  {
+    "ID": 204,
+    "Website": "Sony",
+    "URL": "https://www.sony.com"
+  },
+  {
+    "ID": 205,
+    "Website": "Intel",
+    "URL": "https://www.intel.com"
+  },
+  {
+    "ID": 206,
+    "Website": "AMD",
+    "URL": "https://www.amd.com"
+  },
+  {
+    "ID": 207,
+    "Website": "Nvidia",
+    "URL": "https://www.nvidia.com"
+  },
+  {
+    "ID": 208,
+    "Website": "Qualcomm",
+    "URL": "https://www.qualcomm.com"
+  },
+  {
+    "ID": 209,
+    "Website": "IBM",
+    "URL": "https://www.ibm.com"
+  },
+  {
+    "ID": 210,
+    "Website": "Cisco",
+    "URL": "https://www.cisco.com"
+  },
+  {
+    "ID": 211,
+    "Website": "Dell",
+    "URL": "https://www.dell.com"
+  },
+  {
+    "ID": 212,
+    "Website": "HP",
+    "URL": "https://www.hp.com"
+  },
+  {
+    "ID": 213,
+    "Website": "Lenovo",
+    "URL": "https://www.lenovo.com"
+  },
+  {
+    "ID": 214,
+    "Website": "Asus",
+    "URL": "https://www.asus.com"
+  },
+  {
+    "ID": 215,
+    "Website": "Acer",
+    "URL": "https://www.acer.com"
+  },
+  {
+    "ID": 216,
+    "Website": "MSI",
+    "URL": "https://www.msi.com"
+  },
+  {
+    "ID": 217,
+    "Website": "Razer",
+    "URL": "https://www.razer.com"
+  },
+  {
+    "ID": 218,
+    "Website": "Logitech",
+    "URL": "https://www.logitech.com"
+  },
+  {
+    "ID": 219,
+    "Website": "Western Digital",
+    "URL": "https://www.westerndigital.com"
+  },
+  {
+    "ID": 220,
+    "Website": "Seagate",
+    "URL": "https://www.seagate.com"
+  },
+  {
+    "ID": 221,
+    "Website": "SanDisk",
+    "URL": "https://www.sandisk.com"
+  },
+  {
+    "ID": 222,
+    "Website": "Kingston",
+    "URL": "https://www.kingston.com"
+  },
+  {
+    "ID": 223,
+    "Website": "Crucial",
+    "URL": "https://www.crucial.com"
+  },
+  {
+    "ID": 224,
+    "Website": "Corsair",
+    "URL": "https://www.corsair.com"
+  },
+  {
+    "ID": 225,
+    "Website": "Cooler Master",
+    "URL": "https://www.coolermaster.com"
+  },
+  {
+    "ID": 226,
+    "Website": "Thermaltake",
+    "URL": "https://www.thermaltake.com"
+  },
+  {
+    "ID": 227,
+    "Website": "Be Quiet",
+    "URL": "https://www.bequiet.com"
+  },
+  {
+    "ID": 228,
+    "Website": "Gigabyte",
+    "URL": "https://www.gigabyte.com"
+  },
+  {
+    "ID": 229,
+    "Website": "ASRock",
+    "URL": "https://www.asrock.com"
+  },
+  {
+    "ID": 230,
+    "Website": "EVGA",
+    "URL": "https://www.evga.com"
+  },
+  {
+    "ID": 231,
+    "Website": "TP-Link",
+    "URL": "https://www.tp-link.com"
+  },
+  {
+    "ID": 232,
+    "Website": "Netgear",
+    "URL": "https://www.netgear.com"
+  },
+  {
+    "ID": 233,
+    "Website": "Linksys",
+    "URL": "https://www.linksys.com"
+  },
+  {
+    "ID": 234,
+    "Website": "AsusTek",
+    "URL": "https://www.asus.com"
+  },
+  {
+    "ID": 235,
+    "Website": "D-Link",
+    "URL": "https://www.dlink.com"
+  },
+  {
+    "ID": 236,
+    "Website": "Ubiquiti",
+    "URL": "https://www.ui.com"
+  },
+  {
+    "ID": 237,
+    "Website": "MikroTik",
+    "URL": "https://www.mikrotik.com"
+  },
+  {
+    "ID": 238,
+    "Website": "Raspberry Pi",
+    "URL": "https://www.raspberrypi.com"
+  },
+  {
+    "ID": 239,
+    "Website": "Arduino",
+    "URL": "https://www.arduino.cc"
+  },
+  {
+    "ID": 240,
+    "Website": "Adafruit",
+    "URL": "https://www.adafruit.com"
+  },
+  {
+    "ID": 241,
+    "Website": "SparkFun",
+    "URL": "https://www.sparkfun.com"
+  },
+  {
+    "ID": 242,
+    "Website": "Pololu",
+    "URL": "https://www.pololu.com"
+  },
+  {
+    "ID": 243,
+    "Website": "Seeed Studio",
+    "URL": "https://www.seeedstudio.com"
+  },
+  {
+    "ID": 244,
+    "Website": "Digikey",
+    "URL": "https://www.digikey.com"
+  },
+  {
+    "ID": 245,
+    "Website": "Mouser Electronics",
+    "URL": "https://www.mouser.com"
+  },
+  {
+    "ID": 246,
+    "Website": "Farnell",
+    "URL": "https://www.farnell.com"
+  },
+  {
+    "ID": 247,
+    "Website": "RS Components",
+    "URL": "https://uk.rs-online.com"
+  },
+  {
+    "ID": 248,
+    "Website": "element14",
+    "URL": "https://www.element14.com"
+  },
+  {
+    "ID": 249,
+    "Website": "AllAboutCircuits",
+    "URL": "https://www.allaboutcircuits.com"
+  },
+  {
+    "ID": 250,
+    "Website": "Electronics Hub",
+    "URL": "https://www.electronicshub.org"
+  },
+  {
+    "ID": 251,
+    "Website": "Circuit Digest",
+    "URL": "https://www.circuitdigest.com"
+  },
+  {
+    "ID": 252,
+    "Website": "Instructables",
+    "URL": "https://www.instructables.com"
+  },
+  {
+    "ID": 253,
+    "Website": "Hackaday",
+    "URL": "https://hackaday.com"
+  },
+  {
+    "ID": 254,
+    "Website": "Hackster",
+    "URL": "https://hackster.io"
+  },
+  {
+    "ID": 255,
+    "Website": "Electronics Tutorials",
+    "URL": "https://www.electronics-tutorials.ws"
+  },
+  {
+    "ID": 256,
+    "Website": "IEEE Xplore",
+    "URL": "https://ieeexplore.ieee.org"
+  },
+  {
+    "ID": 257,
+    "Website": "ResearchGate",
+    "URL": "https://www.researchgate.net"
+  },
+  {
+    "ID": 258,
+    "Website": "Academia",
+    "URL": "https://www.academia.edu"
+  },
+  {
+    "ID": 259,
+    "Website": "Springer",
+    "URL": "https://www.springer.com"
+  },
+  {
+    "ID": 260,
+    "Website": "ScienceDirect",
+    "URL": "https://www.sciencedirect.com"
+  },
+  {
+    "ID": 261,
+    "Website": "Wiley Online Library",
+    "URL": "https://onlinelibrary.wiley.com"
+  },
+  {
+    "ID": 262,
+    "Website": "Taylor & Francis Online",
+    "URL": "https://www.tandfonline.com"
+  },
+  {
+    "ID": 263,
+    "Website": "IEEE",
+    "URL": "https://www.ieee.org"
+  },
+  {
+    "ID": 264,
+    "Website": "ACM Digital Library",
+    "URL": "https://dl.acm.org"
+  },
+  {
+    "ID": 265,
+    "Website": "PLOS ONE",
+    "URL": "https://journals.plos.org"
+  },
+  {
+    "ID": 266,
+    "Website": "Nature",
+    "URL": "https://www.nature.com"
+  },
+  {
+    "ID": 267,
+    "Website": "Science",
+    "URL": "https://www.science.org"
+  },
+  {
+    "ID": 268,
+    "Website": "NASA",
+    "URL": "https://www.nasa.gov"
+  },
+  {
+    "ID": 269,
+    "Website": "ESA",
+    "URL": "https://www.esa.int"
+  },
+  {
+    "ID": 270,
+    "Website": "CERN",
+    "URL": "https://home.cern"
+  },
+  {
+    "ID": 271,
+    "Website": "MIT OpenCourseWare",
+    "URL": "https://ocw.mit.edu"
+  },
+  {
+    "ID": 272,
+    "Website": "Coursera",
+    "URL": "https://www.coursera.org"
+  },
+  {
+    "ID": 273,
+    "Website": "edX",
+    "URL": "https://www.edx.org"
+  },
+  {
+    "ID": 274,
+    "Website": "Udemy",
+    "URL": "https://www.udemy.com"
+  },
+  {
+    "ID": 275,
+    "Website": "Khan Academy",
+    "URL": "https://www.khanacademy.org"
+  },
+  {
+    "ID": 276,
+    "Website": "Codecademy",
+    "URL": "https://www.codecademy.com"
+  },
+  {
+    "ID": 277,
+    "Website": "freeCodeCamp",
+    "URL": "https://www.freecodecamp.org"
+  },
+  {
+    "ID": 278,
+    "Website": "LeetCode",
+    "URL": "https://leetcode.com"
+  },
+  {
+    "ID": 279,
+    "Website": "HackerRank",
+    "URL": "https://www.hackerrank.com"
+  },
+  {
+    "ID": 280,
+    "Website": "Codeforces",
+    "URL": "https://codeforces.com"
+  },
+  {
+    "ID": 281,
+    "Website": "Topcoder",
+    "URL": "https://www.topcoder.com"
+  },
+  {
+    "ID": 282,
+    "Website": "Codewars",
+    "URL": "https://www.codewars.com"
+  },
+  {
+    "ID": 283,
+    "Website": "GeeksforGeeks",
+    "URL": "https://www.geeksforgeeks.org"
+  },
+  {
+    "ID": 284,
+    "Website": "Programiz",
+    "URL": "https://www.programiz.com"
+  },
+  {
+    "ID": 285,
+    "Website": "W3Schools",
+    "URL": "https://www.w3schools.com"
+  },
+  {
+    "ID": 286,
+    "Website": "MDN Web Docs",
+    "URL": "https://developer.mozilla.org"
+  },
+  {
+    "ID": 287,
+    "Website": "CSS-Tricks",
+    "URL": "https://css-tricks.com"
+  },
+  {
+    "ID": 288,
+    "Website": "Smashing Magazine",
+    "URL": "https://www.smashingmagazine.com"
+  },
+  {
+    "ID": 289,
+    "Website": "Dev.to",
+    "URL": "https://dev.to"
+  },
+  {
+    "ID": 290,
+    "Website": "Hashnode",
+    "URL": "https://hashnode.com"
+  },
+  {
+    "ID": 291,
+    "Website": "Dribbble",
+    "URL": "https://dribbble.com"
+  },
+  {
+    "ID": 292,
+    "Website": "Behance",
+    "URL": "https://www.behance.net"
+  },
+  {
+    "ID": 293,
+    "Website": "Figma",
+    "URL": "https://www.figma.com"
+  },
+  {
+    "ID": 294,
+    "Website": "Canva",
+    "URL": "https://www.canva.com"
+  },
+  {
+    "ID": 295,
+    "Website": "InVision",
+    "URL": "https://www.invisionapp.com"
+  },
+  {
+    "ID": 296,
+    "Website": "Sketch",
+    "URL": "https://www.sketch.com"
+  },
+  {
+    "ID": 297,
+    "Website": "Framer",
+    "URL": "https://www.framer.com"
+  },
+  {
+    "ID": 298,
+    "Website": "Webflow",
+    "URL": "https://webflow.com"
+  },
+  {
+    "ID": 299,
+    "Website": "WordPress.com",
+    "URL": "https://wordpress.com"
+  },
+  {
+    "ID": 300,
+    "Website": "Squarespace",
+    "URL": "https://www.squarespace.com"
+  },
+  {
+    "ID": 301,
+    "Website": "Wix",
+    "URL": "https://www.wix.com"
+  },
+  {
+    "ID": 302,
+    "Website": "Weebly",
+    "URL": "https://www.weebly.com"
+  },
+  {
+    "ID": 303,
+    "Website": "GoDaddy",
+    "URL": "https://www.godaddy.com"
+  },
+  {
+    "ID": 304,
+    "Website": "Namecheap",
+    "URL": "https://www.namecheap.com"
+  },
+  {
+    "ID": 305,
+    "Website": "Bluehost",
+    "URL": "https://www.bluehost.com"
+  },
+  {
+    "ID": 306,
+    "Website": "Hostinger",
+    "URL": "https://www.hostinger.com"
+  },
+  {
+    "ID": 307,
+    "Website": "SiteGround",
+    "URL": "https://www.siteground.com"
+  },
+  {
+    "ID": 308,
+    "Website": "A2 Hosting",
+    "URL": "https://www.a2hosting.com"
+  },
+  {
+    "ID": 309,
+    "Website": "DreamHost",
+    "URL": "https://www.dreamhost.com"
+  },
+  {
+    "ID": 310,
+    "Website": "Liquid Web",
+    "URL": "https://www.liquidweb.com"
+  },
+  {
+    "ID": 311,
+    "Website": "Linode",
+    "URL": "https://www.linode.com"
+  },
+  {
+    "ID": 312,
+    "Website": "AWS",
+    "URL": "https://aws.amazon.com"
+  },
+  {
+    "ID": 313,
+    "Website": "Google Cloud",
+    "URL": "https://cloud.google.com"
+  },
+  {
+    "ID": 314,
+    "Website": "Microsoft Azure",
+    "URL": "https://azure.microsoft.com"
+  },
+  {
+    "ID": 315,
+    "Website": "Alibaba Cloud",
+    "URL": "https://www.alibabacloud.com"
+  },
+  {
+    "ID": 316,
+    "Website": "Oracle Cloud",
+    "URL": "https://www.oracle.com"
+  },
+  {
+    "ID": 317,
+    "Website": "IBM Cloud",
+    "URL": "https://www.ibm.com/cloud"
+  },
+  {
+    "ID": 318,
+    "Website": "Heroku",
+    "URL": "https://www.heroku.com"
+  },
+  {
+    "ID": 319,
+    "Website": "Scaleway",
+    "URL": "https://www.scaleway.com"
+  },
+  {
+    "ID": 320,
+    "Website": "Hetzner",
+    "URL": "https://www.hetzner.com"
+  },
+  {
+    "ID": 321,
+    "Website": "OVHcloud",
+    "URL": "https://www.ovhcloud.com"
+  },
+  {
+    "ID": 322,
+    "Website": "Fastly",
+    "URL": "https://www.fastly.com"
+  },
+  {
+    "ID": 323,
+    "Website": "Akamai",
+    "URL": "https://www.akamai.com"
+  },
+  {
+    "ID": 324,
+    "Website": "KeyCDN",
+    "URL": "https://www.keycdn.com"
+  },
+  {
+    "ID": 325,
+    "Website": "BunnyCDN",
+    "URL": "https://www.bunny.net"
+  },
+  {
+    "ID": 326,
+    "Website": "Stripe",
+    "URL": "https://stripe.com"
+  },
+  {
+    "ID": 327,
+    "Website": "PayPal",
+    "URL": "https://www.paypal.com"
+  },
+  {
+    "ID": 328,
+    "Website": "Square",
+    "URL": "https://squareup.com"
+  },
+  {
+    "ID": 329,
+    "Website": "Wise",
+    "URL": "https://wise.com"
+  },
+  {
+    "ID": 330,
+    "Website": "Revolut",
+    "URL": "https://revolut.com"
+  },
+  {
+    "ID": 331,
+    "Website": "Payoneer",
+    "URL": "https://www.payoneer.com"
+  },
+  {
+    "ID": 332,
+    "Website": "Skrill",
+    "URL": "https://www.skrill.com"
+  },
+  {
+    "ID": 333,
+    "Website": "Neteller",
+    "URL": "https://www.neteller.com"
+  },
+  {
+    "ID": 334,
+    "Website": "Binance",
+    "URL": "https://www.binance.com"
+  },
+  {
+    "ID": 335,
+    "Website": "Coinbase",
+    "URL": "https://www.coinbase.com"
+  },
+  {
+    "ID": 336,
+    "Website": "Kraken",
+    "URL": "https://www.kraken.com"
+  },
+  {
+    "ID": 337,
+    "Website": "KuCoin",
+    "URL": "https://www.kucoin.com"
+  },
+  {
+    "ID": 338,
+    "Website": "EBay",
+    "URL": "https://www.ebay.com"
+  },
+  {
+    "ID": 339,
+    "Website": "AliExpress",
+    "URL": "https://www.aliexpress.com"
+  },
+  {
+    "ID": 340,
+    "Website": "Alibaba",
+    "URL": "https://www.alibaba.com"
+  },
+  {
+    "ID": 341,
+    "Website": "Walmart",
+    "URL": "https://www.walmart.com"
+  },
+  {
+    "ID": 342,
+    "Website": "Target",
+    "URL": "https://www.target.com"
+  },
+  {
+    "ID": 343,
+    "Website": "Best Buy",
+    "URL": "https://www.bestbuy.com"
+  },
+  {
+    "ID": 344,
+    "Website": "Newegg",
+    "URL": "https://www.newegg.com"
+  },
+  {
+    "ID": 345,
+    "Website": "Etsy",
+    "URL": "https://www.etsy.com"
+  },
+  {
+    "ID": 346,
+    "Website": "Rakuten",
+    "URL": "https://www.rakuten.com"
+  },
+  {
+    "ID": 347,
+    "Website": "Booking",
+    "URL": "https://www.booking.com"
+  },
+  {
+    "ID": 348,
+    "Website": "Expedia",
+    "URL": "https://www.expedia.com"
+  },
+  {
+    "ID": 349,
+    "Website": "Airbnb",
+    "URL": "https://www.airbnb.com"
+  },
+  {
+    "ID": 350,
+    "Website": "TripAdvisor",
+    "URL": "https://www.tripadvisor.com"
+  },
+  {
+    "ID": 351,
+    "Website": "Agoda",
+    "URL": "https://www.agoda.com"
+  },
+  {
+    "ID": 352,
+    "Website": "Skyscanner",
+    "URL": "https://www.skyscanner.net"
+  },
+  {
+    "ID": 353,
+    "Website": "Kayak",
+    "URL": "https://www.kayak.com"
+  },
+  {
+    "ID": 354,
+    "Website": "Uber",
+    "URL": "https://www.uber.com"
+  },
+  {
+    "ID": 355,
+    "Website": "Lyft",
+    "URL": "https://www.lyft.com"
+  },
+  {
+    "ID": 356,
+    "Website": "DoorDash",
+    "URL": "https://www.doordash.com"
+  },
+  {
+    "ID": 357,
+    "Website": "Uber Eats",
+    "URL": "https://www.ubereats.com"
+  },
+  {
+    "ID": 358,
+    "Website": "Grubhub",
+    "URL": "https://www.grubhub.com"
+  },
+  {
+    "ID": 359,
+    "Website": "Zomato",
+    "URL": "https://www.zomato.com"
+  },
+  {
+    "ID": 360,
+    "Website": "Swiggy",
+    "URL": "https://www.swiggy.com"
+  },
+  {
+    "ID": 361,
+    "Website": "BBC News",
+    "URL": "https://www.bbc.com/news"
+  },
+  {
+    "ID": 362,
+    "Website": "CNN",
+    "URL": "https://edition.cnn.com"
+  },
+  {
+    "ID": 363,
+    "Website": "Reuters",
+    "URL": "https://www.reuters.com"
+  },
+  {
+    "ID": 364,
+    "Website": "Bloomberg",
+    "URL": "https://www.bloomberg.com"
+  },
+  {
+    "ID": 365,
+    "Website": "Forbes",
+    "URL": "https://www.forbes.com"
+  },
+  {
+    "ID": 366,
+    "Website": "Business Insider",
+    "URL": "https://www.businessinsider.com"
+  },
+  {
+    "ID": 367,
+    "Website": "TechCrunch",
+    "URL": "https://techcrunch.com"
+  },
+  {
+    "ID": 368,
+    "Website": "The Verge",
+    "URL": "https://www.theverge.com"
+  },
+  {
+    "ID": 369,
+    "Website": "Wired",
+    "URL": "https://www.wired.com"
+  },
+  {
+    "ID": 370,
+    "Website": "Engadget",
+    "URL": "https://www.engadget.com"
+  },
+  {
+    "ID": 371,
+    "Website": "Mashable",
+    "URL": "https://mashable.com"
+  },
+  {
+    "ID": 372,
+    "Website": "Gizmodo",
+    "URL": "https://gizmodo.com"
+  },
+  {
+    "ID": 373,
+    "Website": "CNET",
+    "URL": "https://www.cnet.com"
+  },
+  {
+    "ID": 374,
+    "Website": "PCMag",
+    "URL": "https://www.pcmag.com"
+  },
+  {
+    "ID": 375,
+    "Website": "Tom's Hardware",
+    "URL": "https://www.tomshardware.com"
+  },
+  {
+    "ID": 376,
+    "Website": "AnandTech",
+    "URL": "https://www.anandtech.com"
+  },
+  {
+    "ID": 377,
+    "Website": "IGN",
+    "URL": "https://www.ign.com"
+  },
+  {
+    "ID": 378,
+    "Website": "GameSpot",
+    "URL": "https://www.gamespot.com"
+  },
+  {
+    "ID": 379,
+    "Website": "Polygon",
+    "URL": "https://www.polygon.com"
+  },
+  {
+    "ID": 380,
+    "Website": "Kotaku",
+    "URL": "https://kotaku.com"
+  },
+  {
+    "ID": 381,
+    "Website": "Steam",
+    "URL": "https://store.steampowered.com"
+  },
+  {
+    "ID": 382,
+    "Website": "Epic Games",
+    "URL": "https://www.epicgames.com"
+  },
+  {
+    "ID": 383,
+    "Website": "GOG",
+    "URL": "https://www.gog.com"
+  },
+  {
+    "ID": 384,
+    "Website": "Humble Bundle",
+    "URL": "https://www.humblebundle.com"
+  },
+  {
+    "ID": 385,
+    "Website": "Itch.io",
+    "URL": "https://itch.io"
+  },
+  {
+    "ID": 386,
+    "Website": "Nexus Mods",
+    "URL": "https://www.nexusmods.com"
+  },
+  {
+    "ID": 387,
+    "Website": "Speedtest",
+    "URL": "https://www.speedtest.net"
+  },
+  {
+    "ID": 388,
+    "Website": "Downdetector",
+    "URL": "https://downdetector.com"
+  },
+  {
+    "ID": 389,
+    "Website": "VirusTotal",
+    "URL": "https://www.virustotal.com"
+  },
+  {
+    "ID": 390,
+    "Website": "Shodan",
+    "URL": "https://www.shodan.io"
+  },
+  {
+    "ID": 391,
+    "Website": "LastPass",
+    "URL": "https://www.lastpass.com"
+  },
+  {
+    "ID": 392,
+    "Website": "1Password",
+    "URL": "https://1password.com"
+  },
+  {
+    "ID": 393,
+    "Website": "Bitwarden",
+    "URL": "https://bitwarden.com"
+  },
+  {
+    "ID": 394,
+    "Website": "Dashlane",
+    "URL": "https://www.dashlane.com"
+  },
+  {
+    "ID": 395,
+    "Website": "Proton",
+    "URL": "https://proton.me"
+  },
+  {
+    "ID": 396,
+    "Website": "Tutanota",
+    "URL": "https://tutanota.com"
+  },
+  {
+    "ID": 397,
+    "Website": "NordVPN",
+    "URL": "https://nordvpn.com"
+  },
+  {
+    "ID": 398,
+    "Website": "ExpressVPN",
+    "URL": "https://www.expressvpn.com"
+  },
+  {
+    "ID": 399,
+    "Website": "Surfshark",
+    "URL": "https://surfshark.com"
+  },
+  {
+    "ID": 400,
+    "Website": "Discord",
+    "URL": "https://discord.com"
+  },
+  {
+    "ID": 401,
+    "Website": "Telegram",
+    "URL": "https://telegram.org"
+  },
+  {
+    "ID": 402,
+    "Website": "Signal",
+    "URL": "https://signal.org"
+  },
+  {
+    "ID": 403,
+    "Website": "WhatsApp",
+    "URL": "https://www.whatsapp.com"
+  },
+  {
+    "ID": 404,
+    "Website": "Viber",
+    "URL": "https://www.viber.com"
+  },
+  {
+    "ID": 405,
+    "Website": "WeChat",
+    "URL": "https://www.wechat.com"
+  },
+  {
+    "ID": 406,
+    "Website": "Line",
+    "URL": "https://line.me"
+  },
+  {
+    "ID": 407,
+    "Website": "Snapchat",
+    "URL": "https://www.snapchat.com"
+  },
+  {
+    "ID": 408,
+    "Website": "Brave Search",
+    "URL": "https://search.brave.com"
+  },
+  {
+    "ID": 409,
+    "Website": "You.com",
+    "URL": "https://you.com"
+  },
+  {
+    "ID": 410,
+    "Website": "Kagi",
+    "URL": "https://kagi.com"
+  },
+  {
+    "ID": 411,
+    "Website": "Substack",
+    "URL": "https://substack.com"
+  },
+  {
+    "ID": 412,
+    "Website": "Patreon",
+    "URL": "https://www.patreon.com"
+  },
+  {
+    "ID": 413,
+    "Website": "Kickstarter",
+    "URL": "https://www.kickstarter.com"
+  },
+  {
+    "ID": 414,
+    "Website": "Indiegogo",
+    "URL": "https://www.indiegogo.com"
+  },
+  {
+    "ID": 415,
+    "Website": "GoFundMe",
+    "URL": "https://www.gofundme.com"
+  },
+  {
+    "ID": 416,
+    "Website": "Phind",
+    "URL": "https://phind.com"
+  },
+  {
+    "ID": 417,
+    "Website": "Bandcamp",
+    "URL": "https://bandcamp.com"
+  },
+  {
+    "ID": 418,
+    "Website": "Last.fm",
+    "URL": "https://www.last.fm"
+  },
+  {
+    "ID": 419,
+    "Website": "Tidal",
+    "URL": "https://tidal.com"
+  },
+  {
+    "ID": 420,
+    "Website": "Deezer",
+    "URL": "https://www.deezer.com"
+  },
+  {
+    "ID": 421,
+    "Website": "Pandora",
+    "URL": "https://www.pandora.com"
+  },
+  {
+    "ID": 422,
+    "Website": "TuneIn",
+    "URL": "https://tunein.com"
+  },
+  {
+    "ID": 423,
+    "Website": "Crunchyroll",
+    "URL": "https://www.crunchyroll.com"
+  },
+  {
+    "ID": 424,
+    "Website": "Funimation",
+    "URL": "https://www.funimation.com"
+  },
+  {
+    "ID": 425,
+    "Website": "Dailymotion",
+    "URL": "https://www.dailymotion.com"
+  },
+  {
+    "ID": 426,
+    "Website": "Metacritic",
+    "URL": "https://www.metacritic.com"
+  },
+  {
+    "ID": 427,
+    "Website": "Rotten Tomatoes",
+    "URL": "https://www.rottentomatoes.com"
+  },
+  {
+    "ID": 428,
+    "Website": "IMDb",
+    "URL": "https://www.imdb.com"
+  },
+  {
+    "ID": 429,
+    "Website": "Letterboxd",
+    "URL": "https://letterboxd.com"
+  },
+  {
+    "ID": 430,
+    "Website": "Trakt",
+    "URL": "https://trakt.tv"
+  },
+  {
+    "ID": 431,
+    "Website": "MyAnimeList",
+    "URL": "https://myanimelist.net"
+  },
+  {
+    "ID": 432,
+    "Website": "AniList",
+    "URL": "https://anilist.co"
+  },
+  {
+    "ID": 433,
+    "Website": "GoodReads",
+    "URL": "https://www.goodreads.com"
+  },
+  {
+    "ID": 434,
+    "Website": "StoryGraph",
+    "URL": "https://app.thestorygraph.com"
+  },
+  {
+    "ID": 435,
+    "Website": "LibraryThing",
+    "URL": "https://www.librarything.com"
+  },
+  {
+    "ID": 436,
+    "Website": "Scribd",
+    "URL": "https://www.scribd.com"
+  },
+  {
+    "ID": 437,
+    "Website": "Wattpad",
+    "URL": "https://www.wattpad.com"
+  },
+  {
+    "ID": 438,
+    "Website": "Webtoon",
+    "URL": "https://www.webtoons.com"
+  },
+  {
+    "ID": 439,
+    "Website": "Tapas",
+    "URL": "https://tapas.io"
+  },
+  {
+    "ID": 440,
+    "Website": "Duolingo",
+    "URL": "https://www.duolingo.com"
+  },
+  {
+    "ID": 441,
+    "Website": "Babbel",
+    "URL": "https://www.babbel.com"
+  },
+  {
+    "ID": 442,
+    "Website": "Rosetta Stone",
+    "URL": "https://www.rosettastone.com"
+  },
+  {
+    "ID": 443,
+    "Website": "Memrise",
+    "URL": "https://www.memrise.com"
+  },
+  {
+    "ID": 444,
+    "Website": "Quizlet",
+    "URL": "https://quizlet.com"
+  },
+  {
+    "ID": 445,
+    "Website": "Photomath",
+    "URL": "https://photomath.com"
+  },
+  {
+    "ID": 446,
+    "Website": "Symbolab",
+    "URL": "https://www.symbolab.com"
+  },
+  {
+    "ID": 447,
+    "Website": "Desmos",
+    "URL": "https://www.desmos.com"
+  },
+  {
+    "ID": 448,
+    "Website": "GeoGebra",
+    "URL": "https://www.geogebra.org"
+  },
+  {
+    "ID": 449,
+    "Website": "GeoGuessr",
+    "URL": "https://www.geoguessr.com"
+  },
+  {
+    "ID": 450,
+    "Website": "Chess",
+    "URL": "https://www.chess.com"
+  },
+  {
+    "ID": 451,
+    "Website": "Lichess",
+    "URL": "https://lichess.org"
+  },
+  {
+    "ID": 452,
+    "Website": "Board Game Arena",
+    "URL": "https://en.boardgamearena.com"
+  },
+  {
+    "ID": 453,
+    "Website": "Roblox",
+    "URL": "https://www.roblox.com"
+  },
+  {
+    "ID": 454,
+    "Website": "Minecraft",
+    "URL": "https://www.minecraft.net"
+  },
+  {
+    "ID": 455,
+    "Website": "Andi Search",
+    "URL": "https://andisearch.com"
+  },
+  {
+    "ID": 456,
+    "Website": "Trovo",
+    "URL": "https://trovo.live"
+  },
+  {
+    "ID": 457,
+    "Website": "Kick",
+    "URL": "https://kick.com"
+  },
+  {
+    "ID": 458,
+    "Website": "SurrealDB",
+    "URL": "https://www.surrealdb.com"
+  },
+  {
+    "ID": 459,
+    "Website": "Fanfix",
+    "URL": "https://fanfix.io"
+  },
+  {
+    "ID": 460,
+    "Website": "OnlyFans",
+    "URL": "https://onlyfans.com"
+  },
+  {
+    "ID": 461,
+    "Website": "Cameo",
+    "URL": "https://www.cameo.com"
+  },
+  {
+    "ID": 462,
+    "Website": "Eventbrite",
+    "URL": "https://www.eventbrite.com"
+  },
+  {
+    "ID": 463,
+    "Website": "Ticketmaster",
+    "URL": "https://www.ticketmaster.com"
+  },
+  {
+    "ID": 464,
+    "Website": "StubHub",
+    "URL": "https://www.stubhub.com"
+  },
+  {
+    "ID": 465,
+    "Website": "SeatGeek",
+    "URL": "https://www.seatgeek.com"
+  },
+  {
+    "ID": 466,
+    "Website": "Vivid Seats",
+    "URL": "https://www.vividseats.com"
+  },
+  {
+    "ID": 467,
+    "Website": "Zillow",
+    "URL": "https://www.zillow.com"
+  },
+  {
+    "ID": 468,
+    "Website": "Realtor",
+    "URL": "https://www.realtor.com"
+  },
+  {
+    "ID": 469,
+    "Website": "Trulia",
+    "URL": "https://www.trulia.com"
+  },
+  {
+    "ID": 470,
+    "Website": "Redfin",
+    "URL": "https://www.redfin.com"
+  },
+  {
+    "ID": 471,
+    "Website": "Rightmove",
+    "URL": "https://www.rightmove.co.uk"
+  },
+  {
+    "ID": 472,
+    "Website": "Zoopla",
+    "URL": "https://www.zoopla.co.uk"
+  },
+  {
+    "ID": 473,
+    "Website": "Booking Holdings",
+    "URL": "https://www.bookingholdings.com"
+  },
+  {
+    "ID": 474,
+    "Website": "GitHub Codespaces",
+    "URL": "https://github.com/features/codespaces"
+  },
+  {
+    "ID": 475,
+    "Website": "Hostelworld",
+    "URL": "https://www.hostelworld.com"
+  },
+  {
+    "ID": 476,
+    "Website": "Couchsurfing",
+    "URL": "https://www.couchsurfing.com"
+  },
+  {
+    "ID": 477,
+    "Website": "Rome2rio",
+    "URL": "https://www.rome2rio.com"
+  },
+  {
+    "ID": 478,
+    "Website": "Omio",
+    "URL": "https://www.omio.com"
+  },
+  {
+    "ID": 479,
+    "Website": "Trainline",
+    "URL": "https://www.thetrainline.com"
+  },
+  {
+    "ID": 480,
+    "Website": "Amtrak",
+    "URL": "https://www.amtrak.com"
+  },
+  {
+    "ID": 481,
+    "Website": "Greyhound",
+    "URL": "https://www.greyhound.com"
+  },
+  {
+    "ID": 482,
+    "Website": "BlaBlaCar",
+    "URL": "https://www.blablacar.com"
+  },
+  {
+    "ID": 483,
+    "Website": "Turo",
+    "URL": "https://turo.com"
+  },
+  {
+    "ID": 484,
+    "Website": "Hertz",
+    "URL": "https://www.hertz.com"
+  },
+  {
+    "ID": 485,
+    "Website": "Avis",
+    "URL": "https://www.avis.com"
+  },
+  {
+    "ID": 486,
+    "Website": "Enterprise",
+    "URL": "https://www.enterprise.com"
+  },
+  {
+    "ID": 487,
+    "Website": "Budget",
+    "URL": "https://www.budget.com"
+  },
+  {
+    "ID": 488,
+    "Website": "National Car Rental",
+    "URL": "https://www.nationalcar.com"
+  },
+  {
+    "ID": 489,
+    "Website": "Alamo",
+    "URL": "https://www.alamo.com"
+  },
+  {
+    "ID": 490,
+    "Website": "Thrifty",
+    "URL": "https://www.thrifty.com"
+  },
+  {
+    "ID": 491,
+    "Website": "Dollar",
+    "URL": "https://www.dollar.com"
+  },
+  {
+    "ID": 492,
+    "Website": "Payless",
+    "URL": "https://www.paylesscar.com"
+  },
+  {
+    "ID": 493,
+    "Website": "Fox Rent A Car",
+    "URL": "https://www.foxrentacar.com"
+  },
+  {
+    "ID": 494,
+    "Website": "Silvercar",
+    "URL": "https://www.silvercar.com"
+  },
+  {
+    "ID": 495,
+    "Website": "Zipcar",
+    "URL": "https://zipcar.com"
+  },
+  {
+    "ID": 496,
+    "Website": "Car2Go",
+    "URL": "https://www.share-now.com"
+  },
+  {
+    "ID": 497,
+    "Website": "Getaround",
+    "URL": "https://getaround.com"
+  },
+  {
+    "ID": 498,
+    "Website": "Yep Search",
+    "URL": "https://yep.com"
+  },
+  {
+    "ID": 499,
+    "Website": "Neeva AI alternative \u2192 Perplexity Spaces",
+    "URL": "https://www.perplexity.ai"
+  },
+  {
+    "ID": 500,
+    "Website": "Arc Search",
+    "URL": "https://www.arcsearch.com"
+  }
+]
