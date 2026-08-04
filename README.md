@@ -7,27 +7,50 @@ Built with simplicity and extensibility in mind, the project leverages the Aelio
 
 This repository includes the trained Aelion model, the custom training dataset, and the inference script required to test URL generation. It represents the first milestone in the development of the Aelion AI ecosystem and establishes the foundation for future language models and intelligent AI applications.
 
+
 ✨ Key Features
+
 🧠 Powered by the AelionCalc library
+
 🌐 AI-based website URL generation
+
 📚 Custom JSON training dataset
+
 ⚡ Lightweight neural network architecture
+
 🤖 Natural language to URL prediction
+
 🔧 Simple and extensible codebase
+
 🚀 First public release of the Aelion Neural Network
+
 📂 Repository Contents
+
+
 🧠 new_model.aelion – Trained Aelion neural network model
+
 📚 dataset.json – Custom dataset used for training
+
 🐍 url_generator.py – Final inference/testing script
+
 📦 requirements.txt – Required Python dependencies
+
 🔮 Future Roadmap
+
 
 This release serves as the starting point of the Aelion AI ecosystem. Future versions will introduce:
 
 💬 Conversational AI
+
 🧠 Advanced language models
+
 🔍 Retrieval-Augmented Generation (RAG)
+
 💻 Code generation
+
 🖥️ Linux command understanding
+
 🌍 Multilingual support
+
 ⚡ Improved performance and larger datasets
+
