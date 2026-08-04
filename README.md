@@ -32,7 +32,7 @@ Key Features
 🚀 First public release of the Aelion Neural Network
 
 
-🔮 Future Roadmap
+ Future Roadmap
 
 
 This release serves as the starting point of the Aelion AI ecosystem. Future versions will introduce:
