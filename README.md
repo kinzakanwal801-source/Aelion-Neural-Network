@@ -8,11 +8,17 @@ Built with simplicity and extensibility in mind, the project leverages the Aelio
 This repository includes the trained Aelion model, the custom training dataset, and the inference script required to test URL generation. It represents the first milestone in the development of the Aelion AI ecosystem and establishes the foundation for future language models and intelligent AI applications.
 
 Repository Structure
-aelion-neural-network/
+
+aelion-neural-network
+
 │
+
 ├── new_model.aelion        # Trained neural network model
+
 ├── dataset.json            # Training dataset
+
 ├── url_generator.py        # URL generation script
+
 
 
 Key Features
