@@ -1,5 +1,5 @@
 # Aelion-Neural-Network
-🚀 Aelion URL Generator v1
+🚀 Version 1.0 — Website URL Generator
 
 Aelion URL Generator v1 is the first public release of the Aelion Neural Network project, powered by the AelionCalc library. This experimental AI model demonstrates how a lightweight neural network can generate website URLs from natural language queries using a custom training dataset.
 
@@ -7,8 +7,15 @@ Built with simplicity and extensibility in mind, the project leverages the Aelio
 
 This repository includes the trained Aelion model, the custom training dataset, and the inference script required to test URL generation. It represents the first milestone in the development of the Aelion AI ecosystem and establishes the foundation for future language models and intelligent AI applications.
 
+Repository Structure
+aelion-neural-network/
+│
+├── new_model.aelion        # Trained neural network model
+├── dataset.json            # Training dataset
+├── url_generator.py        # URL generation script
 
-✨ Key Features
+
+Key Features
 
 🧠 Powered by the AelionCalc library
 
@@ -24,17 +31,6 @@ This repository includes the trained Aelion model, the custom training dataset, 
 
 🚀 First public release of the Aelion Neural Network
 
-
-📂 Repository Contents
-
-
-🧠 new_model.aelion – Trained Aelion neural network model
-
-📚 dataset.json – Custom dataset used for training
-
-🐍 url_generator.py – Final inference/testing script
-
-📦 requirements.txt – Required Python dependencies
 
 🔮 Future Roadmap
 
